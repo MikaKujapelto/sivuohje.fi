@@ -1,5 +1,5 @@
 ---
-title: "Sivuohje ohjeista nettisivujen kanssa"
+title: "Sivuohje auttaa nettisivujen ja verkkomainonnan kanssa"
 ---
 
 Nykyään nettisivujen ja muutenkin vahvan verkkopresenssin omaaminen on tärkeää jokaiselle yritykselle ja liiketoimintaa harjoittavalle. Sivuohje auttaa ymmärtämään tätä maailmaa paremmin ja opastaa tekemään parempia ratkaisuja verkossa. 
@@ -15,9 +15,9 @@ Yksinkertaisimmillaan nettisivu on käyntikortti verkossa. Tällöin sivut yleen
 Tämä tuntuu valitettavan usein olevan suomalaisten verkkosivujen toimintamalli, vaikkakin tämä ei välttämättä ollut sivujen ensisijainen tarkoitus. Välillä tavoitteet voivat olla suuria, mutta tähän tilanteeseen päädytään sillä, että resursseja ei yksinkertaisesti käytetä verkkoon. Useimmiten tälläisten sivustojen kävijämäärät ovat hyvin pieniä tai jopa lähes olemattomia. Tämä tietenkin riippuu siitä, kuinka suosittu yritys tai toiminta jo on. 
 
 
-### Nettisivu - liidien kerääminen verkosta
+### Nettisivu - asiakastiedon kerääminen verkosta
 
-Tässä mallissa nettisivuilla haetaan jo jotain tuloksia. Liidien kerääminen voidaan toteuttaa monella tavalla. Esimerkiksi rekrytointiin keskittynyt yritys voidaan nähdä tälläisenä nettisivuna. Rekrytointi yritykset välittävät muille yrityksille työntekijöitä ja tarvitsevat omaan rekisteriinsä mahdollisimman paljon potentiaalisia työntekijöitä. He ilmoittavat sivustollaan työpaikasta ja antavat nettisvivulla vierailevalle mahdollisuuden hakea paikkaan jättämällä oman ansioluettolonsa rekrytointi yritykselle. Kun tämä tapahtuma on suoritettu, on rekrytointi yrityksen maali (goal) saavutettu ja yrityksellä on yksi liidi lisää rekisterissä. 
+Tässä mallissa nettisivuilla haetaan jo jotain tuloksia. Asiakastiedon, eli liidien kerääminen voidaan toteuttaa monella tavalla. Esimerkiksi rekrytointiin keskittynyt yritys voidaan nähdä tälläisenä nettisivuna. Rekrytointi yritykset välittävät muille yrityksille työntekijöitä ja tarvitsevat omaan rekisteriinsä mahdollisimman paljon potentiaalisia työntekijöitä. He ilmoittavat sivustollaan työpaikasta ja antavat nettisvivulla vierailevalle mahdollisuuden hakea paikkaan jättämällä oman ansioluettolonsa rekrytointi yritykselle. Kun tämä tapahtuma on suoritettu, on rekrytointi yrityksen maali (goal) saavutettu ja yrityksellä on yksi liidi lisää rekisterissä. 
 
 Tämä on vain yksi esimerkki liidien keräämisestä ja erilaisia malleja voi olla useita. Yksinkertaisimmillaan sähköposti voi olla ainoa mitä vierailijoista halutaan saada irti. Tämä voidaan toteuttaa esimerkiksi järjestämällä arvonta verkossa. Arvontaan osallistuminen edellyttää voimassa olevan sähköpostin jättämistä. Arvonta itsessään voi olla todellinen, ja voittajaa kontaktoidaan sähköpostilla, mutta arvonnan ehdoissa osallistuja suostuu siihen, että hänen jättämää sähköpostia saadaan käyttää miten tahansa. Useimmiten nämä sähköpostit myydään isoina listoina eteenpäin erilaisille postittajille. 
 
@@ -29,11 +29,17 @@ Kauppapaikka verkossa ei myöskään tarkoita aina sitä, että verkkosivuston y
 
 ## Tarvitseeko jokainen yritys nettisivut heti?
 
-Vaikka moni markkinointitoimisto ja muu, verkkosivuja tekevä taho usein vannoo omien verkkosivujen pakollisuudesta mahdollisimman nopeasti, ei tämä mantra välttämättä pidä paikkaansa kaikkien toimijoiden kohdalla. Netissä tosin on aina oltava, mutta se ei tarkoita omia nettisivuja jokaisessa tapauksessa. Nettisivut voivat tulla toki myöhemmin mukaan, mutta tällöinkin nettisivut voivat jäädä tukevaksi toiminnaksi toiselle alustalle, johon yrityksen päätoiminta keskittyy. Yrityksiä on erikokoisia ja eri yrityksillä toiminta on erilaista. On hyvä muistaa, että yritys voi olla yksikin ihminen. Lisäksi uudet nettisivut eivät vielä tarkoita mitään, sillä uusista sivuista ei automaattisesti lähde informaatio eteenpäin koko maailmalle. 
+Vaikka moni markkinointitoimisto ja muu, verkkosivuja tekevä taho usein vannoo omien verkkosivujen pakollisuudesta mahdollisimman nopeasti, ei tämä mantra välttämättä pidä paikkaansa kaikkien toimijoiden kohdalla. Netissä tosin on aina oltava ja domain on hyvä varata etukäteen, mutta se ei tarkoita sitä, että uuden yrityksen on heti laitettava verkkosivut pystyyn. Nettisivut voivat tulla toki myöhemmin mukaan, mutta tällöinkin ne voivat jäädä tukevaksi toiminnaksi toiselle alustalle, johon yrityksen päätoiminta keskittyy. Yrityksiä on erikokoisia ja eri yrityksillä toiminta on erilaista. On hyvä muistaa, että yritys voi olla yksikin ihminen. Lisäksi uudet nettisivut eivät vielä tarkoita mitään, sillä uusista sivuista ei automaattisesti lähde informaatio eteenpäin koko maailmalle. 
 
 _Vinkki_
 _Google ja Youbtube ovat maailman suurimmat hakukoneet, voi esimerkiksi aluksi varmistaa, että yrityksesi löytyy kartalta ja alkaa tekemään mainosvideoita Youtuben välityksellä._
 
-### Milloin nettisivuja ei tarvita heti
+### Miksi julkaisunopeus on kuitenkin tärkeää?
+Koska uusista nettisivuista ei automaattisesti koko maailmaa tiedoteta, on niiden ylös saanti mahdollisimman nopeasti erittäin hyödyllistä. Mitä nopeammin verkossa on edes jotain, sitä nopeammin hakukoneet tietävät sivuston olemassaolosta. Sivuohje -nettisivu esimerkiksi julkaistiin 24 tunnin sisällä ideasta ja ensimmäinen versio näytti seuraavalta:
 
-Sinulla on yksi myytävä tuote. Voit täysin hyvin listata tuotteen myytäväksi jonkin kolmannen osapuolen verkkokauppaan ja vain keskittyä markkinoimaan tuotetta eri kanavissa. Näin pääset edullisesti ja nopeasti alkuun toiminnassa. Voit myöhemmässä vaiheessa toki miettiä omien nettisivujen perustamista, mutta proof of concept on mahdollista toteuttaa ilmankin. 
+<img src="sivuohje-kotisivu-ruutukaappaus.jpg" alt="Sivuohje kotisivu julkaisupäivänä 11.06.2017" />
+
+Kuten kuvasta nähdään, ei ensimmäinen versio Sivuohje -sivusta ollut kovin erikoinen. 
+
+#### Nopeasti julkaistu ei tarkoita huonoa laatua
+Nopeasti julkaistu verkkosivu ei tarkoita sitä, että tuote olisi huono. Päinvastoin se vaatii tiimiltä enemmän. Nettisivua on pystyttävä kehittämään koko ajan turvallisessa ympäristössä, missä uusia ominaisuuksia voidaan huoletta kokeilla ennen niiden viemistä julkiseksi. Sivuohje -nettisivua kehitetään aina ensin erillisessä testiympäristössä.

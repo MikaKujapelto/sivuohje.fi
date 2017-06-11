@@ -3,6 +3,5 @@ baseColor = "#0277BD"
 linkPrefix = "/gatsby-starter-documentation"
 docPages = [
   "/ohjeet/",
-  "/ohjeet/konsultointi/",
   "/ohjeet/hakukoneoptimointi/",
 ]
