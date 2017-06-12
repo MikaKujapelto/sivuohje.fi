@@ -1,6 +1,7 @@
 siteTitle="Sivuohje"
 baseColor = "#7b1fa2"
 linkPrefix = "/gatsby-starter-documentation"
+navHeight = "60px"
 docPages = [
   "/ohjeet/",
   "/ohjeet/hakukoneoptimointi/",

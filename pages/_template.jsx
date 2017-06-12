@@ -42,7 +42,7 @@ module.exports = React.createClass({
             <Grid
               columns={12}
               style={{
-                padding: `${rhythm(3/4)} 0`,
+                height: config.navHeight,
               }}
             >
               <Span
@@ -59,7 +59,11 @@ module.exports = React.createClass({
                     fontSize: adjustFontSizeTo('16px').fontSize,
                   }}
                 >
-                  {config.siteTitle}
+                  <img src="sivuohje.svg" alt="Sivuohje logo" style={{
+                    marginBottom: 0,
+                    height: '30px',
+                    marginTop: '15px',
+                  }}/>
                 </Link>
               </Span>
               <Span columns={8} last>
@@ -72,11 +76,8 @@ module.exports = React.createClass({
                     textDecoration: 'none',
                     paddingLeft: rhythm(1/2),
                     paddingRight: rhythm(1/2),
-                    paddingBottom: rhythm(1/2),
-                    marginBottom: rhythm(-1),
-                    paddingTop: rhythm(1),
+                    lineHeight: config.navHeight,
                     fontWeight: 700,                    
-                    marginTop: rhythm(-1),
                     fontSize: adjustFontSizeTo('12px').fontSize,
                   }}
                 >
@@ -85,17 +86,14 @@ module.exports = React.createClass({
                 <Link
                   to={prefixLink('/ohjeet/')}
                   style={{
-                    background: docsActive ? activeColors.bg : colors.bg,
-                    color: docsActive ? activeColors.fg : colors.fg,
+                    background: examplesActive ? activeColors.bg : colors.bg,
+                    color: examplesActive ? activeColors.fg : colors.fg,
                     float: 'right',
                     textDecoration: 'none',
                     paddingLeft: rhythm(1/2),
                     paddingRight: rhythm(1/2),
-                    paddingBottom: rhythm(1/2),
-                    marginBottom: rhythm(-1),
-                    paddingTop: rhythm(1),
-                    fontWeight: 700,
-                    marginTop: rhythm(-1),
+                    lineHeight: config.navHeight,
+                    fontWeight: 700,                    
                     fontSize: adjustFontSizeTo('12px').fontSize,
                   }}
                 >
