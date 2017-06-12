@@ -5,4 +5,5 @@ navHeight = "60px"
 docPages = [
   "/ohjeet/",
   "/ohjeet/hakukoneoptimointi/",
+  "/ohjeet/analytiikka/",
 ]

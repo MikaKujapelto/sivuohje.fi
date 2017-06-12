@@ -29,9 +29,11 @@ Kauppapaikka verkossa ei myöskään tarkoita aina sitä, että verkkosivuston y
 
 ## Tarvitseeko jokainen yritys nettisivut heti?
 
-Vaikka moni markkinointitoimisto ja muu, verkkosivuja tekevä taho usein vannoo omien verkkosivujen pakollisuudesta mahdollisimman nopeasti, ei tämä mantra välttämättä pidä paikkaansa kaikkien toimijoiden kohdalla. Netissä tosin on aina oltava ja domain on hyvä varata etukäteen, mutta se ei tarkoita sitä, että uuden yrityksen on heti laitettava verkkosivut pystyyn. Nettisivut voivat tulla toki myöhemmin mukaan, mutta tällöinkin ne voivat jäädä tukevaksi toiminnaksi toiselle alustalle, johon yrityksen päätoiminta keskittyy. Yrityksiä on erikokoisia ja eri yrityksillä toiminta on erilaista. On hyvä muistaa, että yritys voi olla yksikin ihminen. Lisäksi uudet nettisivut eivät vielä tarkoita mitään, sillä uusista sivuista ei automaattisesti lähde informaatio eteenpäin koko maailmalle. 
+Toimintaansa aloittava yritys ei välttämättä tarvitse massiivisia sivuja heti, mutta domain on hyvä aina varata mahdollisimman pian. Helsingin IFK:lle tässä oli käydä huonosti kun <a href="http://www.is.fi/sm-liiga/art-2000000558624.html" target="_blank">tärkeät 12 euroa unohtui</a>.
 
-_Vinkki_
+Mikäli toiminta on erittäin pientä, voi erilaisia muita, kolmannen osapuolen palveluita käyttää hyväksi. Yhtä tuotetta varten ei ole pakko perustaa vielä verkkokauppaa. Kun toiminta, kasvaa on verkkosivuille ehdottomasti tarvetta. 
+
+_Mahdollisuus_
 _Google ja Youbtube ovat maailman suurimmat hakukoneet, voi esimerkiksi aluksi varmistaa, että yrityksesi löytyy kartalta ja alkaa tekemään mainosvideoita Youtuben välityksellä._
 
 ### Miksi julkaisunopeus on kuitenkin tärkeää?
