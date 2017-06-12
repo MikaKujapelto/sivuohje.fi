@@ -1,5 +1,5 @@
 siteTitle="Sivuohje"
-baseColor = "#0277BD"
+baseColor = "#7b1fa2"
 linkPrefix = "/gatsby-starter-documentation"
 docPages = [
   "/ohjeet/",

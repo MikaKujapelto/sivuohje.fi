@@ -1,8 +1,8 @@
 ---
-title: "Sivuohje auttaa nettisivujen ja verkkomainonnan kanssa"
+title: "Sivuohje - nettisivut ja verkkomainonta"
 ---
 
-Nykyään nettisivujen ja muutenkin vahvan verkkopresenssin omaaminen on tärkeää jokaiselle yritykselle ja liiketoimintaa harjoittavalle. Sivuohje auttaa ymmärtämään tätä maailmaa paremmin ja opastaa tekemään parempia ratkaisuja verkossa. 
+Sivuohje tarjoaa informaatiota nettisivuista ja verkkomainonnasta. Nykyään nettisivujen ja muutenkin vahvan verkkopresenssin omaaminen on tärkeää jokaiselle yritykselle ja liiketoimintaa harjoittavalle. Sivuohje auttaa ymmärtämään tätä maailmaa paremmin ja opastaa tekemään parempia ratkaisuja verkossa. 
 
 ## Mitä varten nettisivuja tehdään?
 
@@ -37,9 +37,10 @@ _Google ja Youbtube ovat maailman suurimmat hakukoneet, voi esimerkiksi aluksi v
 ### Miksi julkaisunopeus on kuitenkin tärkeää?
 Koska uusista nettisivuista ei automaattisesti koko maailmaa tiedoteta, on niiden ylös saanti mahdollisimman nopeasti erittäin hyödyllistä. Mitä nopeammin verkossa on edes jotain, sitä nopeammin hakukoneet tietävät sivuston olemassaolosta. Sivuohje -nettisivu esimerkiksi julkaistiin 24 tunnin sisällä ideasta ja ensimmäinen versio näytti seuraavalta:
 
+<figure>
 <img src="sivuohje-kotisivu-ruutukaappaus.jpg" alt="Sivuohje kotisivu julkaisupäivänä 11.06.2017" />
-
-Kuten kuvasta nähdään, ei ensimmäinen versio Sivuohje -sivusta ollut kovin erikoinen. 
+<figcaption>Sivuohje - ensimmäinen julkinen versio</figcaption>
+</figure>
 
 #### Nopeasti julkaistu ei tarkoita huonoa laatua
 Nopeasti julkaistu verkkosivu ei tarkoita sitä, että tuote olisi huono. Päinvastoin se vaatii tiimiltä enemmän. Nettisivua on pystyttävä kehittämään koko ajan turvallisessa ympäristössä, missä uusia ominaisuuksia voidaan huoletta kokeilla ennen niiden viemistä julkiseksi. Sivuohje -nettisivua kehitetään aina ensin erillisessä testiympäristössä.

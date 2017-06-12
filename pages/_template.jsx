@@ -56,7 +56,7 @@ module.exports = React.createClass({
                   style={{
                     textDecoration: 'none',
                     color: colors.fg,
-                    fontSize: adjustFontSizeTo('25.5px').fontSize,
+                    fontSize: adjustFontSizeTo('16px').fontSize,
                   }}
                 >
                   {config.siteTitle}
@@ -64,7 +64,7 @@ module.exports = React.createClass({
               </Span>
               <Span columns={8} last>
                 <Link
-                  to={prefixLink('/esimerkkeja/')}
+                  to={prefixLink('/caset/')}
                   style={{
                     background: examplesActive ? activeColors.bg : colors.bg,
                     color: examplesActive ? activeColors.fg : colors.fg,
@@ -72,13 +72,15 @@ module.exports = React.createClass({
                     textDecoration: 'none',
                     paddingLeft: rhythm(1/2),
                     paddingRight: rhythm(1/2),
-                    paddingBottom: rhythm(3/4),
+                    paddingBottom: rhythm(1/2),
                     marginBottom: rhythm(-1),
                     paddingTop: rhythm(1),
+                    fontWeight: 700,                    
                     marginTop: rhythm(-1),
+                    fontSize: adjustFontSizeTo('12px').fontSize,
                   }}
                 >
-                  Esimerkkejä
+                  Caset
                 </Link>
                 <Link
                   to={prefixLink('/ohjeet/')}
@@ -89,10 +91,12 @@ module.exports = React.createClass({
                     textDecoration: 'none',
                     paddingLeft: rhythm(1/2),
                     paddingRight: rhythm(1/2),
-                    paddingBottom: rhythm(3/4),
+                    paddingBottom: rhythm(1/2),
                     marginBottom: rhythm(-1),
                     paddingTop: rhythm(1),
+                    fontWeight: 700,
                     marginTop: rhythm(-1),
+                    fontSize: adjustFontSizeTo('12px').fontSize,
                   }}
                 >
                   Ohjeet

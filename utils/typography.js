@@ -1,8 +1,25 @@
 import Typography from 'typography'
+import { GoogleFont } from 'react-typography'
 import CodePlugin from 'typography-plugin-code'
 
 const options = {
-  scaleRatio: 1.618,
+  googleFonts: [
+    {
+      name: 'Noto',
+      styles: [
+        '400',
+        '400i',
+        '700'
+      ]
+    }
+  ],
+  headerFontFamily: ['Noto', 'sans-serif'],
+  headerWeight: '700',
+  bodyFontFamily: ['Noto', 'sans-serif'],
+  bodyWeight: '400',
+  baseFontSize: '20px',
+  boldWeight: '700',
+  scale: 2,
   plugins: [
     new CodePlugin(),
   ],
