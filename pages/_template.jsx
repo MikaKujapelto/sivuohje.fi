@@ -8,6 +8,8 @@ import { colors, activeColors } from 'utils/colors'
 import typography from 'utils/typography'
 import { config } from 'config'
 
+import Footer from '../components/Footer';
+
 // Import styles.
 import 'css/main.css'
 import 'css/github.css'
@@ -23,7 +25,7 @@ module.exports = React.createClass({
   render () {
     const docsActive = includes(this.props.location.pathname, '/docs/')
     const examplesActive = includes(this.props.location.pathname, '/examples/')
-
+    const currentPath = this.props.location.pathname;
     return (
       <div>
         <div
@@ -112,6 +114,7 @@ module.exports = React.createClass({
         >
           {this.props.children}
         </Container>
+        <Footer />
       </div>
     )
   },
